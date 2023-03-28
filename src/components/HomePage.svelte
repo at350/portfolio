@@ -108,7 +108,7 @@
       <SpaceBackground />
       {#if visible}
         <div in:fade="{{ delay: 250, duration: 1000 }}">
-          <h1>Your Name</h1>
+          <h1>Alan Tai</h1>
           <div class="title-container">
             {#each titles as title, index}
               <h2
